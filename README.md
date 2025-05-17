@@ -18,9 +18,26 @@ ___negrito e italico___ ou ***negrito e italico***
 - Lista 2
   - Sublista 1
 
+1. Lista 1
+2. Lista 2
+   1. Sublista
+
+<!--Links-->
+Vamos usar os [Texto do Link](Link Usado)
+
+Exemplo: [Da Melhor Forma](https://uploads.polemicaparaiba.com.br/2025/03/BRQvBB7y-WhatsApp-Image-2025-02-25-at-17.35.46-696x437-1.webp)
 
 
-<!--
+<!--Inserir Imagem-->
+![texto da imagem](LInk da Imagem)
+
+Exemplo:
+
+![Defante](https://uploads.diariodopara.com.br/2024/02/diogo-defante-1068x1335.jpg)
+
+
+
+<!-=
 **haquinodev/haquinodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
