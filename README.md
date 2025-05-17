@@ -25,7 +25,7 @@ ___negrito e italico___ ou ***negrito e italico***
 <!--Links-->
 Vamos usar os [Texto do Link](Link Usado)
 
-Exemplo: [Da Melhor Forma](https://uploads.polemicaparaiba.com.br/2025/03/BRQvBB7y-WhatsApp-Image-2025-02-25-at-17.35.46-696x437-1.webp)
+Exemplo: [Praia de Ponta Negra](https://media.istockphoto.com/id/531165945/photo/ponta-negra-dunes-beach-in-city-of-natal-brazil.jpg?s=612x612&w=0&k=20&c=gVq0xULo1ldvK3Rc3-UCRk0IRzObpsfLt9A3YPV4DBc=)
 
 
 <!--Inserir Imagem-->
@@ -33,7 +33,7 @@ Exemplo: [Da Melhor Forma](https://uploads.polemicaparaiba.com.br/2025/03/BRQvBB
 
 Exemplo:
 
-![Defante](https://uploads.diariodopara.com.br/2024/02/diogo-defante-1068x1335.jpg)
+![Natal/RN](https://www.viagenscinematograficas.com.br/wp-content/uploads/2018/03/Natal-RN-O-Que-Fazer-Praias-Capa-e1664501366980.jpg)
 
 
 
